@@ -1,0 +1,3 @@
+This is to test the kwic1 file.
+This is a test line.
+I like turtles.
